@@ -1,0 +1,165 @@
+body{
+    margin: 0px;
+    font-family: roboto;
+}
+body a {
+    text-decoration: none;
+}
+.home_header {
+  background: #293F50;
+  padding: 30px 200px 50px 270px;
+
+}
+.logo_menu .logo {
+width: 50%;
+float: left;
+}
+.home_header .logo_menu .logo h1 {
+ margin: 0px;
+}
+.home_header .logo_menu .logo h1 a{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 48px;
+    letter-spacing: 4px;
+    }
+    .home_header .logo_menu .logo h1 a:hover{
+        color: #648880;
+    }
+    .home_header .logo_menu .menu nav ul li a{
+        text-decoration: none;
+        color: #fff;
+    }
+    .home_header .logo_menu .menu nav ul li a:hover{
+        color: #648880;
+    }
+    .home_header .menu{
+        padding-top: 40px;
+    }
+    .menu span{
+        text-align: right;
+        display: block;
+        text-align: right;
+        margin-right: 88px;
+        color: #648880;
+        font-size: 20px;
+        font-weight: 300;
+    }
+  .menu nav ul{
+    list-style-type: none;
+  }
+  .menu nav ul li{
+    display: inline-block;
+    padding-left: 20px;
+  }
+  .header_desc{
+    clear: both;
+    text-align: center;
+    padding-top: 50px;
+  }
+  .header_desc h2{
+    color: #648880;
+    font-weight: 300;
+    font-size: 36px;
+    margin: 0px;
+  }
+  .header_desc p {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 45px;
+    padding-right: 100px;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+
+  }
+  .header_desc a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    padding: 20px 30px;
+    margin-top: 2;
+    font-size: 18px;
+    letter-spacing: 5px;
+    border-radius: 5px;
+}
+.header_desc a:hover{
+    background: #fff;
+    color: #648880;
+}
+
+.three_section img{
+    width: 280px;
+    height: 190px;
+    border-radius: 5px;
+}
+.speaker,.schedule,.venue{
+    width: 30%;
+    float: left;
+}
+.three_section{
+    padding: 20px 185px 50px 300px;
+}
+.three_section h3{
+    color: #888888;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.three_section h4{
+    color: #888888;
+    opacity: 5;
+    font-weight: 500;
+    font-size: 14px;
+}
+.three_section p{
+    color: #888888;
+    opacity: 5;
+    font-weight: 300;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+.footer{
+   
+    clear: both;
+    background: #293F50;
+    font-size: 14px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+.footer small{ 
+    
+    margin-left: 290px;
+ float: left;
+ font-weight: 400;
+    
+    font-size: 16px;
+    color: #648880;
+}
+
+   .nav {
+    margin-right:250px;
+    
+    text-align: right;
+  }
+  
+  .nav li { 
+
+    
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+  }
+  
+  .nav li:last-child {
+
+    margin-right: 0;
+  }
+  .nav li a{
+    color: #fff;
+    margin-right: 10px;
+  }
+    
